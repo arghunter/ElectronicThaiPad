@@ -41,6 +41,7 @@ Programming:
             - Much brighter and between primary colors
             -   ![image](https://github.com/user-attachments/assets/3421a346-83bc-471d-8f4f-03a862300da3)
 
- 1h planning (probably a little more than this)+1h coding
+1h planning (probably a little more than this)+1h coding
+
 **Time Spent: 2h**
 
