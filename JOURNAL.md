@@ -1,7 +1,7 @@
 ---
 title: "Electronic Thai Pad"
 author: "Armaan Gomes"
-description: "A Muay Thai Pad that uses a set of sensors to detect and respond to the strengh of the hits"
+description: "A Muay Thai Pad that uses a set of sensors to detect and respond to the strength of the hits."
 created_at: "2025-06-9"
 ---
 
