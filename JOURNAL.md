@@ -7,7 +7,7 @@ created_at: "2025-06-9"
 
 
 # June 9th
-## Planning: 
+## Planning(Note:There was significant ideation before this point, which is why brainstorming was rather straight forward): 
 - Needs to register hits
     - First Idea: IMU - Already have some Adafruit nrf 52840 sense boards (https://learn.adafruit.com/adafruit-feather-sense/overview) that would be great
     - Other Ideas:
@@ -31,7 +31,7 @@ created_at: "2025-06-9"
     - Need to note that the acceleration also includes gravity when stationary so I may need to offset that later
 -  After that, tired out neopixel demo, needed to find correct neopixel configuration to use the onboard pin
 -  Combined the two to make a system that reflects both the direction and magnitude of the acceleration on the IMu built into the board
-    - Forgot to accoutn for negatives, which confused me for a bit
+    - Forgot to accout for negatives, which confused me for a bit
     - Squaring the values caused it to become too sensitive and also flashbang me,
     - Settled on less sensitive brightness and color control, with offsets to account for stationary moments.
         - Stationary:
@@ -53,14 +53,20 @@ created_at: "2025-06-9"
     - Despite hitting with different power, the accel always seems to be suspiciously similar 
     -  ![image](https://github.com/user-attachments/assets/b2a567f2-5a4f-44a5-b573-5c6a06c486ff)
     -  Read the data sheet and it looks like the imu is set to +-4G of acceleration so I need to find a way around that.
-    -  Ok I found a way to increase the accel rang to 16g, which is the max. SAadly, I'm still maxing it on some punches, maybe i should try some padding
-        - ![image](https://github.com/user-attachments/assets/0a36be53-1bfc-4820-9df9-e702e593c572)
-  
+    -  Ok I found a way to increase the accel range to 16g, which is the max. SAadly, I'm still maxing it on some punches, maybe i should try some padding
+        - ![image](https://github.com/user-attachments/assets/0a36be53-1bfc-4820-9df9-e702e593c572)   
+- Padding in front of the sensor did not work, I think i need some sort of springy substance both infront and behind the sensor to act as mechanical dampers.
+
+## Cadding
+- I made a rough case that has a space for a sliding platform with springs to dampen impact.
+- However, i am currently failing at both making a screw and making a spring I am using the sweep tool wrong somehow and will figure it out later
+- ![image](https://github.com/user-attachments/assets/8c1b04f7-b054-4612-bb5c-517e8673b0cf)
 
 
 
-1h planning (probably a little more than this)+1h coding + 0.5h Pad Acquisition+ 1.5h initial testing (so far)
+
+1h planning (probably a little more than this)+1h coding + 0.5h Pad Acquisition+ 2h initial testing + 1 h CADding
 
 
-**Time Spent: 4h**
+**Time Spent: 5.5h**
 
