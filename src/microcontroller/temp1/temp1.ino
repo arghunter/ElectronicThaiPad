@@ -8,9 +8,7 @@ Adafruit_LSM6DS33 lsm6ds33;
 
 #define LED_PIN     8
 
-
 #define LED_COUNT  1
-
 
 #define BRIGHTNESS 50 // Set BRIGHTNESS to about 1/5 (max = 255)
 
@@ -32,13 +30,14 @@ bool new_rev = true;
 
 void setup(void) {
   Serial.begin(115200);
-  // while (!Serial) delay(10);
 
 
-  // initialize the sensors
+
+
 
 
   lsm6ds33.begin_I2C();
+  lsm6ds33.setAccelRange(LSM6DS_ACCEL_RANGE_16_G);
   // check for readings from LSM6DS33
   sensors_event_t accel;
   sensors_event_t gyro;
@@ -86,15 +85,12 @@ void loop(void) {
   strip.setBrightness(abs(accel_x)*abs(accel_y)*abs(accel_z)+25);
   strip.show();
   
-  Serial.println("\nFeather Sense Sensor Demo");
-  Serial.println("---------------------------------------------");
-  Serial.print("Acceleration: ");
+
   Serial.print(accel_x);
   Serial.print(" ");
   Serial.print(accel_y);
   Serial.print(" ");
   Serial.print(accel_z);
-  Serial.println(" m/s^2");
+  Serial.println();
   delay(30);
 }
-
