@@ -53,11 +53,14 @@ created_at: "2025-06-9"
     - Despite hitting with different power, the accel always seems to be suspiciously similar 
     -  ![image](https://github.com/user-attachments/assets/b2a567f2-5a4f-44a5-b573-5c6a06c486ff)
     -  Read the data sheet and it looks like the imu is set to +-4G of acceleration so I need to find a way around that.
+    -  Ok I found a way to increase the accel rang to 16g, which is the max. SAadly, I'm still maxing it on some punches, maybe i should try some padding
+        - ![image](https://github.com/user-attachments/assets/0a36be53-1bfc-4820-9df9-e702e593c572)
+  
 
 
 
-1h planning (probably a little more than this)+1h coding + 0.5h Pad Acquisition+1h initial testing (so far)
+1h planning (probably a little more than this)+1h coding + 0.5h Pad Acquisition+ 1.5h initial testing (so far)
 
 
-**Time Spent: 3.5h**
+**Time Spent: 4h**
 
