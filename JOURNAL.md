@@ -7,7 +7,7 @@ created_at: "2025-06-9"
 
 
 # June 9th
-Planning: 
+## Planning: 
 - Needs to register hits
     - First Idea: IMU - Already have some Adafruit nrf 52840 sense boards (https://learn.adafruit.com/adafruit-feather-sense/overview) that would be great
     - Other Ideas:
@@ -23,7 +23,7 @@ Planning:
   
 - Probably won't need a PCB just because the nrf sense boards already work so well.
 
-Programming:
+## Programming:
 - Found boards, updated bootloader
 - Tried out the adafruit sensor demo
     - Took way to long to get the correct libaries installed
@@ -41,7 +41,23 @@ Programming:
             - Much brighter and between primary colors
             -   ![image](https://github.com/user-attachments/assets/3421a346-83bc-471d-8f4f-03a862300da3)
 
-1h planning (probably a little more than this)+1h coding
+## Pad Acquisition:
+- I talked to my taekwondo instructor and he gave me 4 old pads to experiment with
+    - ![image](https://github.com/user-attachments/assets/663e797c-c21d-4c95-8435-cf039c794f55)
+## Initial Testing
+- Shoved the sense board (feather) into the pad
+    - Kinda messy for a first test but if it work it works. Note will need padding to protect board from impact
+    - ![image](https://github.com/user-attachments/assets/e4b23e65-0b41-421a-9ed2-6275a5897912)
+- Did a tad more coding, intially to use the serial plotter, but that sucks so I got a serial decoder in python and am using that for testing
+- It works - But now I appear to be maxing out the sensor:
+    - Despite hitting with different power, the accel always seems to be suspiciously similar 
+    -  ![image](https://github.com/user-attachments/assets/b2a567f2-5a4f-44a5-b573-5c6a06c486ff)
+    -  Read the data sheet and it looks like the imu is set to +-4G of acceleration so I need to find a way around that.
 
-**Time Spent: 2h**
+
+
+1h planning (probably a little more than this)+1h coding + 0.5h Pad Acquisition+1h initial testing (so far)
+
+
+**Time Spent: 3.5h**
 
