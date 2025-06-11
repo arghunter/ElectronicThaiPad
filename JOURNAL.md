@@ -70,3 +70,18 @@ created_at: "2025-06-9"
 
 **Time Spent: 5.5h**
 
+# June 10th
+## Cad Pain
+- I really need to learn CAD for real.
+- I got a spring set up in possible the most awful way posible
+- Then for somethin reason I thought I could print this in 1 piece without supports
+    - ![image](https://github.com/user-attachments/assets/47203654-fa56-4be8-b6a2-2958be35d38e)
+ - I also failed at screws again so I settled for dowels
+ - I am also suspecting that I will need a high-G IMU like https://blog.st.com/lsm6dsv320x/
+     - Its also smd so I have no shot of soldering that myself, so I'll probably need the expansion board
+- Slice and printed for testing
+    - ![image](https://github.com/user-attachments/assets/5609cf54-d4c5-41e2-8742-4c0263d375a6)
+
+1h Cadding + 0.5h Research/Parts Search
+   
+**Time Spent: 1.5h**
