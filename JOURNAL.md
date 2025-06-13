@@ -88,9 +88,10 @@ created_at: "2025-06-9"
 
 # June 12th
 ## Assembly
-- Not too deep, everything generally fits. The dowels didn't rpitn very well but thats fine.
+- Not too deep, everything generally fits. The dowels didn't print very well but thats fine.
   - ![image](https://github.com/user-attachments/assets/aa0567c6-5d4b-4e8a-aceb-41c003317913)
   - ![image](https://github.com/user-attachments/assets/d34ace5f-b2f9-4f2f-a44c-7c961731c9a0)
   
-
+## Wiring Diagram
+-  Datasheet for imu: https://www.st.com/resource/ja/datasheet/lsm6dsv320x.pdf 
 
