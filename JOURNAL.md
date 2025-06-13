@@ -7,7 +7,7 @@ created_at: "2025-06-9"
 
 
 # June 9th
-## Planning(Note:There was significant ideation before this point, which is why brainstorming was rather straight forward): 
+## Planning: 
 - Needs to register hits
     - First Idea: IMU - Already have some Adafruit nrf 52840 sense boards (https://learn.adafruit.com/adafruit-feather-sense/overview) that would be great
     - Other Ideas:
@@ -85,3 +85,12 @@ created_at: "2025-06-9"
 1h Cadding + 0.5h Research/Parts Search
    
 **Time Spent: 1.5h**
+
+# June 12th
+## Assembly
+- Not too deep, everything generally fits. The dowels didn't rpitn very well but thats fine.
+  - ![image](https://github.com/user-attachments/assets/aa0567c6-5d4b-4e8a-aceb-41c003317913)
+  - ![image](https://github.com/user-attachments/assets/d34ace5f-b2f9-4f2f-a44c-7c961731c9a0)
+  
+
+
