@@ -23,7 +23,8 @@ As a fourth degree black belt, I value every source of feedback, but objective f
 ![image](https://github.com/user-attachments/assets/06b3a453-3c4d-4ea4-b32f-c71c10dfaf04)
 ### Wiring Diagram
 - As the thai pad is rather large, a PCB will not work, instead I have attached a wiring diagram.
-[Wiring Diagram.pdf](https://github.com/user-attachments/files/20841662/STEVAL-MKI251A.Pinout.pdf)
+![image](https://github.com/user-attachments/assets/e55787f7-3da6-441b-bc26-df8c8e7f5b89)
+
 
 ##BOM
 | Part                        | Cost     | Count | Notes          | Link                                                                 | Total  |
