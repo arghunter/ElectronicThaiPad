@@ -93,5 +93,21 @@ created_at: "2025-06-9"
   - ![image](https://github.com/user-attachments/assets/d34ace5f-b2f9-4f2f-a44c-7c961731c9a0)
   
 ## Wiring Diagram
--  Datasheet for imu: https://www.st.com/resource/ja/datasheet/lsm6dsv320x.pdf 
+-  Datasheet for imu: https://www.st.com/resource/ja/datasheet/lsm6dsv320x.pdf
+-  Started work
+
+**Time Spent: 0.5h**
+
+# June 20th
+## Wiring Diagram
+- Made the wiring diagram, looked through datasheets and connected everything correctly
+- Plan to directly solder to microcontroller due to the large distance from the micrcontroller to the peripherals
+    -  May use a perf board if the wiring becomes too hairy.
+ 
+## Case
+- Minor tweaks, added stl files to repo, plan to print in TPU
+
+**Time Spent: 1h**
+  
+  
 
