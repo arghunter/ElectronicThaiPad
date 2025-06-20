@@ -18,7 +18,7 @@ As a fourth degree black belt, I value every source of feedback, but objective f
 
 ## Pictures
 ### Full Project
-- I would provide a 3d model, but it would just be an image of a thai pad, this system is mean to be fully embedded. However, below is a sketch of the sensor positioning
+- I would provide a 3d model, but it would just be an image of a thai pad, this system is mean to be fully embedded. However, below is a sketch of the sensor positioning. Additionally, the microcontroller will be surrounded in a TPU case to protect it from the repeated shocks.
 - Note: These are meant to be flexible as there are many variation of thai pad designs.
 ![image](https://github.com/user-attachments/assets/06b3a453-3c4d-4ea4-b32f-c71c10dfaf04)
 ### Wiring Diagram
