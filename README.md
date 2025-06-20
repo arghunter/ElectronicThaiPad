@@ -26,7 +26,7 @@ As a fourth degree black belt, I value every source of feedback, but objective f
 ![image](https://github.com/user-attachments/assets/e55787f7-3da6-441b-bc26-df8c8e7f5b89)
 
 
-##BOM
+## BOM
 | Part                        | Cost     | Count | Notes          | Link                                                                 | Total  |
 |-----------------------------|----------|-------|----------------|----------------------------------------------------------------------|--------|
 | Adafruit Feather nRF52840 Sense | $39.50   | 1     | Already Owned   | [Link](https://www.adafruit.com/product/4516)                        | $0     |
