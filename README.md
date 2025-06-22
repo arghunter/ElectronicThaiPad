@@ -33,10 +33,9 @@ As a fourth degree black belt, I value every source of feedback, but objective f
 | Li-Po Battery              | $5.95   | 1      | Already Owned    | [Link](https://www.adafruit.com/product/4237)                        | $0.00   |
 | STEVAL-MKI251A             | $16.81  | 1      | Free Shipping    | [Link](https://estore.st.com/en/steval-mki251a-cpn.html)            | $16.81  |
 | Piezo Sensor               | $2.32   | 1      | 5-Pack           | [Link](https://www.aliexpress.us/item/3256808935246513.html)        | $2.32   |
-| TPU Filament               | $10.09  | 1      | $8.42 shipping   | [Link](https://www.aliexpress.us/item/3256804775295760.html)        | $18.51  |
 | Neopixel Light Strip       | $9.18   | 1      | 2m 60            | [Link](https://www.aliexpress.us/item/2251801850504415.html)        | $9.18   |
 |                             |         |        |                  |                                                                      |         |
-| **Total:**                  |         |        |                  |                                                                      | **$47** |
+| **Total:**                  |         |        |                  |                                                                      | **$28.41** |
 
 
 
