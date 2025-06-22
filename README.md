@@ -35,7 +35,7 @@ As a fourth degree black belt, I value every source of feedback, but objective f
 | Piezo Sensor               | $2.32   | 1      | 5-Pack           | [Link](https://www.aliexpress.us/item/3256808935246513.html)        | $2.32   |
 | Neopixel Light Strip       | $9.18   | 1      | 2m 60            | [Link](https://www.aliexpress.us/item/2251801850504415.html)        | $9.18   |
 |                             |         |        |                  |                                                                      |         |
-| **Total:**                  |         |        |                  |                                                                      | **$28.41** |
+| **Total:**                  |         |        |                  |                                                                      | **$28.49** |
 
 
 
